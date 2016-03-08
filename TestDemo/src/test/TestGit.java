@@ -6,6 +6,7 @@ public abstract class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
 		System.out.println("Hi1");
+		System.out.println("Hi2");
 
 	}
 
